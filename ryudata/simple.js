@@ -17,7 +17,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 //MENU OWNER
 exports.sowner = (prefix) => {
 	return`Media Sosial 👾
-TikTok : @Fadillah64_
+TikTok : @mywhy88
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -331,7 +331,7 @@ TikTok : @Fadillah64_
 //MENU AWAL
 exports.smenu = (pushname, namabot) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *${namabot}* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
+Saya Adalah *${YuuzyMD}* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
 
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
