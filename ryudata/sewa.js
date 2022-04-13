@@ -18,6 +18,6 @@ exports.sewa = () => {
 *SISTEM: TES BOT-MASUKIN BOT-TF-DONE*
 
 *MINAT? CHAT :
-wa.me/6285814691644
+wa.me/62895338334350
 `
 }
